@@ -21,14 +21,11 @@ API Gateway is a rest service that provides a security layer that will allow onl
 
 
 
-#### Members Microservice
-[![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/members-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=7)
+#### Members Microservice - [![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/members-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=7)
 
-#### Notification Microservice
-[![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/notifications-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=14)
+#### Notification Microservice - [![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/notifications-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=14)
 
-#### Chache Microservice
-[![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/cache-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=6)
+#### Chache Microservice - [![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/cache-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=6)
 
 
 ## Social Media  
