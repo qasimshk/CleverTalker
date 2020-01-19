@@ -15,10 +15,11 @@ alt="Clever Talker | Introduction" width="240" height="180" border="10" /></a>
 alt="Architecture & Design Pattern | Clever Talker" width="240" height="180" border="10" /></a>
 
 ## Microservices
-#### API Gateway
+#### API Gateway - [![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/gateway-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=5)
+
 API Gateway is a rest service that provides a security layer that will allow only authorized users to access microservices. All the microservices will be registered by their unique id in the gateway service and all its endpoints can be called through a single API gateway service endpoint. 
 
-[![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/gateway-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=5)
+
 
 #### Members Microservice
 [![Build status](https://dev.azure.com/CematixSolutions/CT%20Microservices/_apis/build/status/members-microservice-ci)](https://dev.azure.com/CematixSolutions/CT%20Microservices/_build/latest?definitionId=7)
