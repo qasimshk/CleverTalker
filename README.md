@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/qasimshk/CleverTalker/master/Logo.jpg" width="100"> 
 
 # CleverTalker 
-Hi, welcome to Clever Talker, I am fascinated by AI and after lot of research how I can create my own project where I can use different technologies and concepts and that is how I come up with Clever Talker. On this website instead of browsing a user will communicate with a digital human character which will suggest and recommend according to user interest and the search keywords that he or she had entered.  The purpose of my videos is not to teach but to share the knowledge I have gained by working on it. So if you are working on a similar project then all these videos can be beneficial for you. I am Qasim, join me as I will go through step by step in how I have created my own human interacting website.
+Clever talker is a .net core based project which is based on microservice architecture. This project is developed as an enterprise application and all my videos are based on it. If you are working on something similar or would like to learn more about distributed architecture design then join now.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ow8T4MVAUH8
