@@ -35,4 +35,4 @@ All services can only be accessible using a token, which is generated using the 
 - [MassTransit](https://masstransit-project.com/getting-started/)
 - [MediatR](https://github.com/jbogard/MediatR)
 - [Ocelot](https://ocelot.readthedocs.io/en/latest/index.html)
-- [Identity Server](https://identityserver4.readthedocs.io/en/latest/)
+- [IdentityServer4](https://identityserver4.readthedocs.io/en/latest/)
