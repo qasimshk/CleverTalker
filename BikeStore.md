@@ -10,10 +10,10 @@ Workflows are based on sagas pattern where every transaction action is predefine
 
 | Service | Status |
 | ------------- | ------------- |
-| Bike Store | [![Build status](https://dev.azure.com/CematixSolutions/Bike%20Stores/_apis/build/status/github-ci)](https://dev.azure.com/CematixSolutions/Bike%20Stores/_build/latest?definitionId=29) |
+| Bike Store | [![Build status](https://dev.azure.com/CematixSolutions/Bike%20Stores/_apis/build/status/devops-ci)](https://dev.azure.com/CematixSolutions/Bike%20Stores/_build/latest?definitionId=27) |
 
 
-[![Build status](https://dev.azure.com/CematixSolutions/Bike%20Stores/_apis/build/status/github-ci)](https://dev.azure.com/CematixSolutions/Bike%20Stores/_build/latest?definitionId=29)
+[![Build status](https://dev.azure.com/CematixSolutions/Bike%20Stores/_apis/build/status/devops-ci)](https://dev.azure.com/CematixSolutions/Bike%20Stores/_build/latest?definitionId=27)
 
 ### Gateway Service
 
